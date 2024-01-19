@@ -1,5 +1,4 @@
-![netflix-1](https://github.com/SrihariReddyBSR/Netflix-clone/assets/147307563/9e7992cd-9140-4e04-8845-d135a50856c4)### Netflix-Clone
-
+### Netflix-Clone
 Netflix Clone made with React npm install  npm start 
 
 ### Demo
