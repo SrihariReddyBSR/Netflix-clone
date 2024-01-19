@@ -17,10 +17,9 @@ HTML, CSS, React, React Hooks etc..
 
 ## React
 Create-react-app with highly complex frontend structure
+
 ## React Router
 Complex and dynamic route generation
-## React Reveal
-For fade animation effect
 
 ### Implementation Highlights
 Netflix clone made with advanced react, fetch movie data. Features include a user signup and signin, interactive UI replicated from the original netflix app.
